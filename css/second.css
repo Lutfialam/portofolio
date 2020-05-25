@@ -1,0 +1,950 @@
+/* Desktop - 1 */
+#n1_2 {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: rgb(255, 255, 255);
+}
+
+/* Rectangle 7 */
+#n9_4 {
+  background: rgb(106, 132, 224);
+  border-radius: 0px 40px;
+  left: 34px;
+  width: 446px;
+  top: 2190px;
+  height: 468px;
+}
+
+/* Rectangle 6 */
+#n9_3 {
+  background-image: url("https://s3-alpha-sig.figma.com/img/8e13/70fe/d49fc3d41889329bccad5f540f814f38?Expires=1590969600&Signature=hsJOLNAgwqc2-gXyVzCAgVjTw9x3~QM8yOzkI86o6Owy-w2ua-k52BihfThttJUCELvmummnzSOl67pviuT5yrVbWHRt6EJZ5xZCzRnapWXw6qrjS8XgX8ASdxw1f~R0SyEzQpKQYf0IcHBXM4pAwKRD7WIYMxwUCwXhxCp2R06~soC6mKoDt6G3-IjCiaABK8Xs~FiOCGgeXI8B5SA7dswcg88y~j4hKAJi95P-rdM~xXd3MQfJvNMyz7C9GgUWZacC7JlbLr5oR08-f8ALmwF3qScBzAR4BtmXUL5fJuVDffM27f5L8Wz4hWgjF56-R22vjaoYbm2u0Jgoca4SDw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+  background-repeat: no-repeat;
+  border-radius: 0px 40px;
+  left: 34px;
+  width: 446px;
+  top: 2201px;
+  height: 346px;
+}
+
+/* More Info */
+#n9_9 {
+  font-family: Poppins;
+  font-size: 27px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  color: rgb(255, 255, 255);
+  vertical-align: middle;
+  justify-content: flex-start;
+  width: 125px;
+  transform: translate(0px, 0px);
+  line-height: 31.6406px;
+  height: 41px;
+  left: 291px;
+  top: 2601px;
+}
+
+/* ic:baseline-arrow-forward-ios */
+#n9_10 {
+  width: 41px;
+  height: 41px;
+  overflow: hidden;
+  left: 416px;
+  top: 2601px;
+}
+
+/* Vector */
+#n9_11 {
+  left: 24.5%;
+  right: 25%;
+  top: 8.33%;
+  bottom: 8.33%;
+}
+
+/* Mobile apps With flutter... */
+#n9_13 {
+  font-family: Poppins;
+  font-size: 27px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  color: rgb(255, 255, 255);
+  vertical-align: middle;
+  justify-content: flex-start;
+  width: 336px;
+  transform: translate(0px, 0px);
+  line-height: 31.6406px;
+  height: 41px;
+  left: 51px;
+  top: 2556px;
+}
+
+/* Rectangle 7 */
+#n9_17 {
+  background: rgb(106, 132, 224);
+  border-radius: 0px 40px;
+  left: 497px;
+  width: 446px;
+  top: 2190px;
+  height: 468px;
+}
+
+/* Rectangle 6 */
+#n9_18 {
+  background-image: url("https://s3-alpha-sig.figma.com/img/8e13/70fe/d49fc3d41889329bccad5f540f814f38?Expires=1590969600&Signature=hsJOLNAgwqc2-gXyVzCAgVjTw9x3~QM8yOzkI86o6Owy-w2ua-k52BihfThttJUCELvmummnzSOl67pviuT5yrVbWHRt6EJZ5xZCzRnapWXw6qrjS8XgX8ASdxw1f~R0SyEzQpKQYf0IcHBXM4pAwKRD7WIYMxwUCwXhxCp2R06~soC6mKoDt6G3-IjCiaABK8Xs~FiOCGgeXI8B5SA7dswcg88y~j4hKAJi95P-rdM~xXd3MQfJvNMyz7C9GgUWZacC7JlbLr5oR08-f8ALmwF3qScBzAR4BtmXUL5fJuVDffM27f5L8Wz4hWgjF56-R22vjaoYbm2u0Jgoca4SDw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+  background-repeat: no-repeat;
+  border-radius: 0px 40px;
+  left: 497px;
+  width: 446px;
+  top: 2201px;
+  height: 346px;
+}
+
+/* More Info */
+#n9_20 {
+  font-family: Poppins;
+  font-size: 27px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  color: rgb(255, 255, 255);
+  vertical-align: middle;
+  justify-content: flex-start;
+  width: 125px;
+  transform: translate(0px, 0px);
+  line-height: 31.6406px;
+  height: 41px;
+  left: 754px;
+  top: 2601px;
+}
+
+/* ic:baseline-arrow-forward-ios */
+#n9_21 {
+  width: 41px;
+  height: 41px;
+  overflow: hidden;
+  left: 879px;
+  top: 2601px;
+}
+
+/* Vector */
+#n9_22 {
+  left: 24.5%;
+  right: 25%;
+  top: 8.33%;
+  bottom: 8.33%;
+}
+
+/* Web apps With Nodejs... */
+#n9_23 {
+  font-family: Poppins;
+  font-size: 27px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  color: rgb(255, 255, 255);
+  vertical-align: middle;
+  justify-content: flex-start;
+  width: 321px;
+  transform: translate(0px, 0px);
+  line-height: 31.6406px;
+  height: 41px;
+  left: 514px;
+  top: 2556px;
+}
+
+/* Rectangle 7 */
+#n9_25 {
+  background: rgb(106, 132, 224);
+  border-radius: 0px 40px;
+  left: 960px;
+  width: 446px;
+  top: 2190px;
+  height: 468px;
+}
+
+/* Rectangle 6 */
+#n9_26 {
+  background-image: url("https://s3-alpha-sig.figma.com/img/8e13/70fe/d49fc3d41889329bccad5f540f814f38?Expires=1590969600&Signature=hsJOLNAgwqc2-gXyVzCAgVjTw9x3~QM8yOzkI86o6Owy-w2ua-k52BihfThttJUCELvmummnzSOl67pviuT5yrVbWHRt6EJZ5xZCzRnapWXw6qrjS8XgX8ASdxw1f~R0SyEzQpKQYf0IcHBXM4pAwKRD7WIYMxwUCwXhxCp2R06~soC6mKoDt6G3-IjCiaABK8Xs~FiOCGgeXI8B5SA7dswcg88y~j4hKAJi95P-rdM~xXd3MQfJvNMyz7C9GgUWZacC7JlbLr5oR08-f8ALmwF3qScBzAR4BtmXUL5fJuVDffM27f5L8Wz4hWgjF56-R22vjaoYbm2u0Jgoca4SDw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+  background-repeat: no-repeat;
+  border-radius: 0px 40px;
+  left: 960px;
+  width: 446px;
+  top: 2201px;
+  height: 346px;
+}
+
+/* More Info */
+#n9_28 {
+  font-family: Poppins;
+  font-size: 27px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  color: rgb(255, 255, 255);
+  vertical-align: middle;
+  justify-content: flex-start;
+  width: 125px;
+  transform: translate(0px, 0px);
+  line-height: 31.6406px;
+  height: 41px;
+  left: 1217px;
+  top: 2601px;
+}
+
+/* ic:baseline-arrow-forward-ios */
+#n9_29 {
+  width: 41px;
+  height: 41px;
+  overflow: hidden;
+  left: 1342px;
+  top: 2601px;
+}
+
+/* Vector */
+#n9_30 {
+  left: 24.5%;
+  right: 25%;
+  top: 8.33%;
+  bottom: 8.33%;
+}
+
+/* Web apps With Laravel... */
+#n9_31 {
+  font-family: Poppins;
+  font-size: 27px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  color: rgb(255, 255, 255);
+  vertical-align: middle;
+  justify-content: flex-start;
+  width: 326px;
+  transform: translate(0px, 0px);
+  line-height: 31.6406px;
+  height: 41px;
+  left: 977px;
+  top: 2556px;
+}
+
+/* Proggraming Project */
+#n9_1 {
+  font-family: Poppins;
+  font-size: 47px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  color: rgb(0, 0, 0);
+  vertical-align: middle;
+  justify-content: flex-start;
+  width: 484px;
+  transform: translate(0px, 0px);
+  line-height: 55.0781px;
+  height: 71px;
+  left: calc(50% - 242px + 35px);
+  top: calc(50% - 35.5px + 370px);
+}
+
+/* - Understand programing language like PHP and javascript - Familiar with backend framework like CI, Laravel, Expressjs and AdonisJs - Familiar with CSS framework like bootstrap and materializecss - Understand Versioning control System(git) - Understand Restfull API Consept - Understand Database management system like MYSQL - Understand package manager like composer and NPM */
+#n5_1 {
+  font-family: Poppins;
+  font-size: 31px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  color: rgb(0, 0, 0);
+  vertical-align: middle;
+  justify-content: flex-start;
+  width: 1135px;
+  transform: translate(0px, 0px);
+  line-height: 36.3281px;
+  height: 329px;
+  left: 153px;
+  top: calc(50% - 164.5px + 63px);
+}
+
+/* Skills */
+#n4_54 {
+  font-family: Poppins;
+  font-size: 47px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  color: rgb(0, 0, 0);
+  vertical-align: middle;
+  justify-content: flex-start;
+  width: 112px;
+  transform: translate(0px, 0px);
+  line-height: 55.0781px;
+  height: 71px;
+  left: 665px;
+  top: 1532px;
+}
+
+/* Rectangle 4 */
+#n6_3 {
+  background: rgb(106, 132, 224);
+  border-radius: 50px;
+  left: 1190px;
+  width: 217.287px;
+  top: 1525px;
+  height: 217.287px;
+}
+
+/* Rectangle 5 */
+#n6_4 {
+  background: rgb(106, 132, 224);
+  border-radius: 50px;
+  left: -58px;
+  width: 217.287px;
+  top: 1809px;
+  height: 217.287px;
+}
+
+/* Rectangle 2 */
+#n1_10 {
+  background: rgb(106, 132, 224);
+  border-radius: 100px;
+  left: -703px;
+  width: 1105.72px;
+  top: 438px;
+  height: 889.96px;
+}
+
+/* About me */
+#n3_5 {
+  font-family: Poppins;
+  font-size: 47px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  color: rgb(0, 0, 0);
+  vertical-align: middle;
+  justify-content: flex-start;
+  width: 231px;
+  transform: translate(0px, 0px);
+  line-height: 55.0781px;
+  height: 71px;
+  left: 604px;
+  top: 758px;
+}
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla aliquet porttitor iaculis fermentum dignissim blandit quisque mauris. Diam fermentum faucibus et tempor. Ultricies venenatis, accumsan, cursus rhoncus et. Proin duis aliquam ut volutpat tortor non condimentum leo posuere. Arcu malesuada natoque at commodo eget scelerisque turpis ac maecenas */
+#n3_6 {
+  font-family: Poppins;
+  font-size: 31px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  color: rgb(0, 0, 0);
+  vertical-align: middle;
+  text-align: center;
+  justify-content: center;
+  width: 596px;
+  transform: translate(0px, 0px);
+  line-height: 36.3281px;
+  height: 746px;
+  left: 739px;
+  top: 909px;
+}
+
+/* undraw_profile_6l1l 1 */
+#n4_10 {
+  width: 632px;
+  height: 454px;
+  overflow: hidden;
+  left: 52px;
+  top: 909px;
+}
+
+/* Vector */
+#n4_11 {
+  right: 83.9147%;
+  top: 99.93%;
+  bottom: 0.07%;
+}
+
+/* Vector */
+#n4_12 {
+  left: 23.5465%;
+  right: 5.03876%;
+  top: 17.22%;
+  bottom: 15.5%;
+}
+
+/* Vector */
+#n4_13 {
+  left: 21.3663%;
+  right: 7.21899%;
+  top: 12.98%;
+  bottom: 19.75%;
+}
+
+/* Vector */
+#n4_14 {
+  left: 21.3663%;
+  right: 7.21899%;
+  top: 19.43%;
+  bottom: 80.57%;
+}
+
+/* Vector */
+#n4_15 {
+  left: 64.0504%;
+  right: 16.4729%;
+  top: 34.55%;
+  bottom: 61.27%;
+}
+
+/* Vector */
+#n4_16 {
+  left: 60.3198%;
+  right: 12.7422%;
+  top: 46.14%;
+  bottom: 50.49%;
+}
+
+/* Vector */
+#n4_17 {
+  left: 60.3198%;
+  right: 12.7422%;
+  top: 55.31%;
+  bottom: 41.32%;
+}
+
+/* Vector */
+#n4_18 {
+  left: 60.3198%;
+  right: 12.7422%;
+  top: 64.48%;
+  bottom: 32.15%;
+}
+
+/* Vector */
+#n4_19 {
+  left: 65.0194%;
+  right: 15.5039%;
+  top: 33.2%;
+  bottom: 62.62%;
+}
+
+/* Vector */
+#n4_20 {
+  left: 61.2888%;
+  right: 11.7733%;
+  top: 44.79%;
+  bottom: 51.84%;
+}
+
+/* Vector */
+#n4_21 {
+  left: 61.2888%;
+  right: 11.7733%;
+  top: 53.96%;
+  bottom: 42.67%;
+}
+
+/* Vector */
+#n4_22 {
+  left: 61.2888%;
+  right: 11.7733%;
+  top: 63.13%;
+  bottom: 33.5%;
+}
+
+/* Vector */
+#n4_23 {
+  left: 25.3392%;
+  right: 71.7539%;
+  top: 15%;
+  bottom: 80.96%;
+}
+
+/* Vector */
+#n4_24 {
+  left: 29.4089%;
+  right: 67.6841%;
+  top: 15%;
+  bottom: 80.96%;
+}
+
+/* Vector */
+#n4_25 {
+  left: 33.4787%;
+  right: 63.6143%;
+  top: 15%;
+  bottom: 80.96%;
+}
+
+/* Vector */
+#n4_26 {
+  left: 25.9205%;
+  right: 71.1725%;
+  top: 14.19%;
+  bottom: 81.77%;
+}
+
+/* Vector */
+#n4_27 {
+  left: 29.9903%;
+  right: 67.1027%;
+  top: 14.19%;
+  bottom: 81.77%;
+}
+
+/* Vector */
+#n4_28 {
+  left: 34.0601%;
+  right: 63.0329%;
+  top: 14.19%;
+  bottom: 81.77%;
+}
+
+/* Vector */
+#n4_29 {
+  left: 40.2143%;
+  right: 56.0703%;
+  top: 64.02%;
+  bottom: 22.58%;
+}
+
+/* Vector */
+#n4_30 {
+  left: 28.2461%;
+  right: 44.8159%;
+  top: 29.56%;
+  bottom: 22.58%;
+}
+
+/* Vector */
+#n4_31 {
+  left: 25.9205%;
+  right: 47.1415%;
+  top: 25.92%;
+  bottom: 26.22%;
+}
+
+/* Vector */
+#n4_32 {
+  left: 8.62467%;
+  right: 89.0724%;
+  top: 43.2%;
+  bottom: 53.1%;
+}
+
+/* Vector */
+#n4_33 {
+  left: 1.28467%;
+  right: 96.251%;
+  top: 67.44%;
+  bottom: 27.2%;
+}
+
+/* Vector */
+#n4_34 {
+  left: 14.4156%;
+  right: 83.8233%;
+  top: 66.35%;
+  bottom: 27.75%;
+}
+
+/* Vector */
+#n4_35 {
+  left: 5.46987%;
+  right: 89.6091%;
+  top: 40.96%;
+  bottom: 53.1%;
+}
+
+/* Vector */
+#n4_36 {
+  left: 5.46987%;
+  right: 89.6091%;
+  top: 40.96%;
+  bottom: 53.1%;
+}
+
+/* Vector */
+#n4_37 {
+  left: 3.98448%;
+  right: 86.572%;
+  top: 65.49%;
+  bottom: 4.92%;
+}
+
+/* Vector */
+#n4_38 {
+  left: 5.82384%;
+  right: 89.1789%;
+  top: 36.06%;
+  bottom: 56.98%;
+}
+
+/* Vector */
+#n4_39 {
+  left: 4.53288%;
+  right: 86.6595%;
+  top: 44.2%;
+  bottom: 32.09%;
+}
+
+/* Vector */
+#n4_40 {
+  left: 9.4538%;
+  right: 83.6153%;
+  top: 43.24%;
+  bottom: 31.58%;
+}
+
+/* Vector */
+#n4_41 {
+  left: 0.489962%;
+  right: 92.8429%;
+  top: 43.24%;
+  bottom: 29.58%;
+}
+
+/* Vector */
+#n4_42 {
+  left: 8.26073%;
+  right: 87.7177%;
+  top: 87.33%;
+  bottom: 3.48%;
+}
+
+/* Vector */
+#n4_43 {
+  left: 5.6333%;
+  right: 91.2402%;
+  top: 93.52%;
+}
+
+/* Vector */
+#n4_44 {
+  left: 4.10933%;
+  right: 89.298%;
+  top: 34.14%;
+  bottom: 57.15%;
+}
+
+/* Vector */
+#n4_45 {
+  left: 88.5029%;
+  right: 3.00459%;
+  top: 1.01%;
+  bottom: 73.95%;
+}
+
+/* Vector */
+#n4_46 {
+  left: 90.1163%;
+  right: 6.49225%;
+  bottom: 97.71%;
+}
+
+/* Vector */
+#n4_47 {
+  left: 91.4729%;
+  right: 5.13566%;
+  top: 7.55%;
+  bottom: 90.16%;
+}
+
+/* Vector */
+#n4_48 {
+  left: 88.3721%;
+  right: 8.23643%;
+  top: 8.76%;
+  bottom: 88.95%;
+}
+
+/* Vector */
+#n4_49 {
+  left: 93.2171%;
+  right: 3.39148%;
+  top: 15.1%;
+  bottom: 82.61%;
+}
+
+/* Vector */
+#n4_50 {
+  left: 96.6085%;
+  top: 15.1%;
+  bottom: 82.61%;
+}
+
+/* Rectangle 1 */
+#n1_9 {
+  background: rgb(106, 132, 224);
+  border-radius: 100px;
+  left: 508px;
+  width: 1074.78px;
+  top: -275px;
+  height: 786.915px;
+}
+
+/* About */
+#n1_3 {
+  font-family: Poppins;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  color: rgb(255, 255, 255);
+  vertical-align: middle;
+  justify-content: flex-start;
+  width: 96px;
+  transform: translate(0px, 0px);
+  line-height: 37.5px;
+  height: 48px;
+  left: 814px;
+  top: 43px;
+}
+
+/* Interest */
+#n1_4 {
+  font-family: Poppins;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  color: rgb(255, 255, 255);
+  vertical-align: middle;
+  justify-content: flex-start;
+  width: 120px;
+  transform: translate(0px, 0px);
+  line-height: 37.5px;
+  height: 48px;
+  left: 953px;
+  top: 43px;
+}
+
+/* Skills */
+#n1_5 {
+  font-family: Poppins;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  color: rgb(255, 255, 255);
+  vertical-align: middle;
+  justify-content: flex-start;
+  width: 76px;
+  transform: translate(0px, 0px);
+  line-height: 37.5px;
+  height: 48px;
+  left: 1116px;
+  top: 43px;
+}
+
+/* Education */
+#n1_6 {
+  font-family: Poppins;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  color: rgb(255, 255, 255);
+  vertical-align: middle;
+  justify-content: flex-start;
+  width: 161px;
+  transform: translate(0px, 0px);
+  line-height: 37.5px;
+  height: 48px;
+  left: 1235px;
+  top: 43px;
+}
+
+/* Rectangle 3 */
+#n3_0 {
+  background-image: url("https://s3-alpha-sig.figma.com/img/7725/cc31/5bb260fdd76014ff315c01fd1582ae1c?Expires=1590969600&Signature=G5KssR5vFyFpDIHQZen5a0-9hb0ipd~6eYkhBmvCEQ1g3eLLpuBgUfWKGZkmL0PfYUP8LlJ~YRIjAiKNsBjtKQl0ipcQ7DAuHg-QYMmTR2p-DgubSzteeVYANPof6aE9E9FJJobcgY1au0WlVwPweqwvGLLORVr2mfXM8msYta7KavZUTTNVHG8yQzaBYb6g0q7nVI0dSMt5x1QTbYnNC3~sPxj4A~D9a9jo~FD8UhDw7v~ogixv5SIqu3ws-tNC2viw36qb0Ih1QStK3SSRfaIg1~9ygBxU2VHfVsGmBfZyskH7h4N4KnGxBqiYKJcMQuzZUBHehzkncUhwHYqTiw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+  background-repeat: no-repeat;
+  border-radius: 0px 200px;
+  left: 52px;
+  width: 575px;
+  top: 166px;
+  height: 401px;
+}
+
+/* Lutfi Alamsyah Web developer */
+#n3_1 {
+  font-family: Poppins;
+  font-size: 41px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  color: rgb(0, 0, 0);
+  vertical-align: middle;
+  justify-content: flex-start;
+  width: 311px;
+  transform: translate(0px, 0px);
+  line-height: 48.0469px;
+  height: 124px;
+  left: 658px;
+  top: 405px;
+}
+
+/* Rectangle 8 */
+#n9_33 {
+  background: rgb(106, 132, 224);
+  border-radius: 100px 100px 0px 0px;
+  width: 1440px;
+  top: 2876px;
+  height: 641px;
+}
+
+/* 2020 */
+#n9_37 {
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  color: rgb(255, 255, 255);
+  vertical-align: middle;
+  justify-content: flex-start;
+  width: 73px;
+  transform: translate(0px, 0px);
+  line-height: 35.1563px;
+  height: 45px;
+  left: 820px;
+  top: 3449px;
+}
+
+/* Lutfi Alamsyah */
+#n9_34 {
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  color: rgb(255, 255, 255);
+  vertical-align: middle;
+  justify-content: flex-start;
+  width: 220px;
+  transform: translate(0px, 0px);
+  line-height: 35.1563px;
+  height: 45px;
+  left: 546px;
+  top: 3449px;
+}
+
+/* ic:baseline-copyright */
+#n9_35 {
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+  left: 777px;
+  top: 3456px;
+}
+
+/* Vector */
+#n9_36 {
+  left: 8.33334%;
+  right: 8.33334%;
+  top: 8.33%;
+  bottom: 8.33%;
+}
+
+/* ant-design:github-filled */
+#n9_39 {
+  width: 43px;
+  height: 43px;
+  overflow: hidden;
+  left: 51px;
+  top: 3005px;
+}
+
+/* Vector */
+#n9_40 {
+  left: 6.25%;
+  right: 6.33789%;
+  top: 7.45%;
+  bottom: 7.45%;
+}
+
+/* Lutfialam */
+#n9_41 {
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  color: rgb(255, 255, 255);
+  vertical-align: middle;
+  justify-content: flex-start;
+  width: 140px;
+  transform: translate(0px, 0px);
+  line-height: 35.1563px;
+  height: 45px;
+  left: 107px;
+  top: 3005px;
+}
+
+/* bx:bxl-facebook-circle */
+#n9_42 {
+  width: 43px;
+  height: 43px;
+  overflow: hidden;
+  left: 51px;
+  top: 3073px;
+}
+
+/* Vector */
+#n9_43 {
+  left: 8.34166%;
+  right: 8.33334%;
+  top: 8.34%;
+  bottom: 8.83%;
+}
+
+/* Lutfi Alamsyah */
+#n9_44 {
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  color: rgb(255, 255, 255);
+  vertical-align: middle;
+  justify-content: flex-start;
+  width: 220px;
+  transform: translate(0px, 0px);
+  line-height: 35.1563px;
+  height: 45px;
+  left: 107px;
+  top: 3073px;
+}
+
+/* clarity:email-solid */
+#n9_45 {
+  width: 43px;
+  height: 43px;
+  overflow: hidden;
+  left: 51px;
+  top: 3141px;
+}
+
+/* Vector */
+#n9_46 {
+  left: 9.41673%;
+  right: 10.1944%;
+  top: 16.64%;
+  bottom: 43.14%;
+}
+
+/* Vector */
+#n9_47 {
+  left: 5.36116%;
+  right: 5.74995%;
+  top: 20.53%;
+  bottom: 16.67%;
+}
+
+/* Lutfialamsyah1003@gmail.com */
+#n9_48 {
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  color: rgb(255, 255, 255);
+  vertical-align: middle;
+  justify-content: flex-start;
+  width: 468px;
+  transform: translate(0px, 0px);
+  line-height: 35.1563px;
+  height: 45px;
+  left: 107px;
+  top: 3142px;
+}
+
+/* Rectangle 9 */
+#n10_5 {
+  background: rgb(105, 117, 224);
+  border-radius: 100px;
+  left: 857px;
+  width: 858.031px;
+  top: 2740px;
+  height: 718.561px;
+}
