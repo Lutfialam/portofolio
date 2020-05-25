@@ -54,6 +54,10 @@
     width: 400px;
   }
 
+  .img__project__yayasan {
+    width: 350px;
+  }
+
   .btn__rounded {
     border-radius: 50px;
   }
@@ -83,7 +87,7 @@
   }
 
   .padd__top__header {
-    padding-top: 20px;
+    padding-top: 23px;
   }
 
   .padd__top {
@@ -196,7 +200,7 @@
     width: 481px;
     height: 481px;
     left: 1197px;
-    top: 220px;
+    top: 150px;
 
     background: #6a76e0;
     border-radius: 100%;
